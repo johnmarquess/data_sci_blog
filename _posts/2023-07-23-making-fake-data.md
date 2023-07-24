@@ -126,8 +126,8 @@ print(tabulate(df, headers='keys', tablefmt='simple_outline'))
 
 And the results should look something like this:
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/user_profiles.jpg)
-{: .full}
+[![User profiles]({{ site.url }}{{ site.baseurl }}/assets/images/user_profiles_sml.jpg)]({{ site.url }}{{ site.baseurl }}/assets/images/user_profiles.jpg)
+
 
 ### Conclusion
 
