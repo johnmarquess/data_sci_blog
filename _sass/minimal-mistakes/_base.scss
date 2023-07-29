@@ -204,6 +204,7 @@ figure {
     margin-bottom: 1em;
   }
 
+
   img {
     width: 100%;
     border-radius: $border-radius;
@@ -242,6 +243,10 @@ figure {
   }
 }
 
+
+iframe {
+  border: 2px solid $border-color;
+}
 /* Figure captions */
 
 figcaption {
