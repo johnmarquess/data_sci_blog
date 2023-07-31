@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Deploy a Shiny server on digital ocean Ubuntu droplet"
-date:   2023-07-31 18:45:00 +1000
+date:   2024-07-31 18:45:00 +1000
 tags: shiny ubuntu  
 excerpt: "This post is set out to explain in a step by step manner how to deploy shinny apps on your own server using Ubuntu. "
 ---

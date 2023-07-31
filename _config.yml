@@ -1,6 +1,6 @@
 theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+environment              : production
 # Site Settings
 locale                   : "en-AU"
 title                    : "A data science blog"
@@ -84,9 +84,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : 'google-gtag' # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : G-JQSNGPDVE3
+    tracking_id          : 'G-JQSNGPDVE3'
     anonymize_ip         : false
 
 
