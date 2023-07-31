@@ -7,8 +7,9 @@ excerpt: "This post describes how to use the OpenAI Python API to build AI appli
 ---
 
 
-![OpenAI logo]({{ site.url }}{{ site.baseurl }}/assets/images/openAI.png)
-{: .full}
+![OpenAI logo]({{ site.url }}{{ site.baseurl }}/assets/images/openAi.png)
+ 
+
 
 
 ## What is OpenAI
@@ -22,7 +23,7 @@ This post describes how to use the OpenAI Python API to build AI applications. W
 
 Prior to using the OpenAI API you will need an API key. To do this, follow these steps:
 
-1. Go to https://platform.openai.com/account/api-keys.
+1. Go to [the OpenAI webiste](https://platform.openai.com/account/api-keys.)
 2. Create an account.
 3. Select API Keys in the left-hand menu and click on Create New Key
 4. Click on "Create new secret key" to create a new API key.
