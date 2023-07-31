@@ -7,7 +7,7 @@ excerpt: "This post describes how to use the `Faker` class. Faker is a Python li
 ---
 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/fake.jpg)
+![Building blocks image]({{ site.url }}{{ site.baseurl }}/assets/images/fake.jpg)
 {: .full}
 
 

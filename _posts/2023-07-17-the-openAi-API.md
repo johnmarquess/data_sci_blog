@@ -7,7 +7,7 @@ excerpt: "This post describes how to use the OpenAI Python API to build AI appli
 ---
 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/openAI.png)
+![OpenAI logo]({{ site.url }}{{ site.baseurl }}/assets/images/openAI.png)
 {: .full}
 
 

@@ -6,7 +6,7 @@ tags: python seaborn pandas
 excerpt: "In this blog post, we will dive into the world of Palmer Penguins and gain insights into their unique features using two powerful Python libraries: pandas and seaborn."
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/penguins.png)
+![The palmer penguins image]({{ site.url }}{{ site.baseurl }}/assets/images/penguins.png)
 {: .full}
 
 ## Introduction:
