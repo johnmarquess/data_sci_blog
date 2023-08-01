@@ -3,6 +3,9 @@ layout: single
 title:  "Deploy a Shiny server on digital ocean Ubuntu droplet"
 date:   2023-08-01 18:45:00 +1000
 tags: shiny ubuntu  
+seo_tags: shiny ubuntu server
+seo_title: "Deploy a Shiny server on digital ocean Ubuntu droplet"
+seo_description: "How to set up a shiny server on a Digitalocean Ubuntu droplet."
 excerpt: "This post will walk you through how to set up a shiny server on a Digitalocean Ubuntu droplet. "
 ---
 

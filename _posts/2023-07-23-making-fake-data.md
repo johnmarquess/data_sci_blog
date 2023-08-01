@@ -3,7 +3,10 @@ layout: single
 title:  "Generating fake user profiles using the python Faker class"
 date:   2023-07-23 18:45:00 +1000
 tags: python Faker 
-excerpt: "This post describes how to use the `Faker` class. Faker is a Python library that generates fake data and is useful for testing purposes when you need to use dummy data."
+seo_tags: python Faker fake-data
+seo_title: "Generating fake user profiles using the python Faker class"
+seo_description: "Using the python Faker package that generates fake data is useful for testing purposes when you need to use dummy data."
+excerpt: "This post describes how to use the python Faker that generates fake data and is useful for testing purposes when you need to use dummy data."
 ---
 
 

@@ -3,14 +3,15 @@ layout: single
 title:  "Connecting to openAI with python with the API"
 date:   2023-07-16 17:45:00 +1000
 tags: python OpenAI 
+seo_tags: python OpenAI artificial-intelligence API
+seo_title: "Connecting to openAI with python with the API"
+seo_description: "How to use the OpenAI Python API to develop AI applications using your OpenAI account and API key"
 excerpt: "This post describes how to use the OpenAI Python API to build AI applications. We will cover setting up your OpenAI account and API key"
 ---
 
 
 ![OpenAI logo]({{ site.url }}{{ site.baseurl }}/assets/images/openAi.png)
  
-
-
 
 ## What is OpenAI
 

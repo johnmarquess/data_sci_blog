@@ -3,6 +3,9 @@ layout: single
 title:  "Exploring the features of Palmer penguins using pandas and seaborn"
 date:   2023-07-15 12:50:14 +1000
 tags: python seaborn pandas
+seo_tags: python seaborn pandas
+seo_title: "An introductory post about the pandas and seaborn packages."
+seo_description: "How to use the pandas and seaborn packages to explore data and create visualisations."
 excerpt: "In this blog post, we will dive into the world of Palmer Penguins and gain insights into their unique features using two powerful Python libraries: pandas and seaborn."
 ---
 
